@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @battlefieldnanasi
-- 👀 I’m interested in ???
-- 🌱 I’m currently learning javascript and português
-- 📫 How to reach me discord
+fbbdbd
 
 <!---
 battlefieldnanasi/battlefieldnanasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
